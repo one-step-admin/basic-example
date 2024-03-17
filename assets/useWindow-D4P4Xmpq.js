@@ -1,0 +1,1 @@
+import{R as u,x as s}from"./index-CK99TJbl.js";function c(){const t=u();function e(o){t.add(o),s.emit("scrollToWindow",typeof o=="string"?o:o.name)}function r(o){t.remove(o)}function n(o){t.reload(o),setTimeout(()=>{t.reload(o)},0)}return{add:e,remove:r,reload:n}}export{c as u};
