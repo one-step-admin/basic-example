@@ -1,0 +1,1 @@
+import{_ as o}from"./index.vue_vue_type_script_setup_true_lang-hFak_flO.js";import{_ as t}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{o as a,x as c,f as n,m as r}from"./index-DVvrHu0Q.js";const _={};function s(f,m){const e=o;return a(),c(e,null,{default:n(()=>[r(" 这是一个新窗口 ")]),_:1})}const d=t(_,[["render",s]]);export{d as default};
